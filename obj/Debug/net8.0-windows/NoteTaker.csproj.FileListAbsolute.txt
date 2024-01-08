@@ -18,3 +18,4 @@ D:\Documents\C# Projects\NoteTaker\obj\Debug\net8.0-windows\refint\NoteTaker.dll
 D:\Documents\C# Projects\NoteTaker\obj\Debug\net8.0-windows\NoteTaker.pdb
 D:\Documents\C# Projects\NoteTaker\obj\Debug\net8.0-windows\NoteTaker.genruntimeconfig.cache
 D:\Documents\C# Projects\NoteTaker\obj\Debug\net8.0-windows\ref\NoteTaker.dll
+D:\Documents\C# Projects\NoteTaker\obj\Debug\net8.0-windows\NoteTaker.sourcelink.json
