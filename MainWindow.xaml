@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NoteTaker"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Note Taker Program" Height="600" Width="800">
     <Grid>
-
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Text="Hello World from WPF" Width="100" Height="35"/>
     </Grid>
 </Window>
